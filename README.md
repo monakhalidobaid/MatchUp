@@ -26,8 +26,8 @@ The plan is to have single-player and two-player modes, but for now, only single
 - Open MatchUp.sln in Visual Studio.
 
 - Build and run.
-
-Note: You might need to install Guna.UI2.WinForms if it's not already available in your setup.
+- Note: You might need to install Guna.UI2.WinForms if it's not already available in your setup.
+  
 ---
 ## 📸 Preview
 <img src="main.png" width="400"> <img src="1.png" width="400"> <img src="2.png" width="400">
